@@ -1,0 +1,9 @@
+@font-face {
+  font-weight: 700;
+  font-family: 'Fivo Sans Modern';
+  font-style: normal;
+  src: url('/fonts/fivo-sans-modern/bold.woff2') format('woff2'),
+  url('/fonts/fivo-sans-modern/bold.woff') format('woff');
+  font-display: swap;
+  unicode-range: U+000-5FF; /* Latin glyphs */
+}
